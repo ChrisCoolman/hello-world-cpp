@@ -9,6 +9,11 @@ int main()
     c = a + b;
     cout << "C = " << c << endl;
     string name = "Chris Coleman :)";
-    cout << "My name is " << name << endl;1
+    cout << "My name is " << name << endl;
+    float hotdog = 1.5;
+    bool hotdogtruth = false;
+    cout << "I ate " << hotdog << " hotdogs. True or false? It's " << hotdogtruth << endl;
+    cout << "0 is computer speak for false" << endl;
+    char favletter = 'c';
+    cout << "My favorite letter is " << favletter << " for chris!!!!" << endl;
 }
-
